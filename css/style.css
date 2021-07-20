@@ -10,7 +10,9 @@
     border-radius: 15px;
     background-color: #FCEAE8;
 }
-
+.myCarousel-item{
+    padding: 20px 30px
+}
 .cat1{
     background-color: orange;
 }
