@@ -24,3 +24,16 @@
     border-radius: 15px;
     padding: 10px 40px;
 }
+
+.myCard{
+    border: none;
+    border-radius: 15px;
+    padding: 15px 10px;
+}
+.myCard-footer{
+    border: none;
+    background: none;
+}
+.myCard-Shadow{
+    box-shadow: 5px 5px 20px #adadad5c;
+}
