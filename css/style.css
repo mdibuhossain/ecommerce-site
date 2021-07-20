@@ -5,9 +5,10 @@
 .sec-space{
     margin-bottom: 50px;
 }
-.slide-sec>div{
-    margin-top: 100px;
-    border-radius: 15px;
+.slide-sec{
+    margin-top: 120px;
+}
+.myBg-color{
     background-color: #FCEAE8;
 }
 .myCarousel-item{
@@ -25,17 +26,18 @@
 
 .cat1, .cat2, .cat3{
     color: white;
-    border-radius: 15px;
     padding: 10px 40px;
 }
 
 .myCard{
     border: none;
-    border-radius: 15px;
-    box-shadow: 5px 5px 20px #adadad5c;
+    box-shadow: 5px 5px 15px #69696963;
     padding: 15px 10px;
 }
 .myCard-footer{
     border: none;
     background: none;
+}
+.rounded-border{
+    border-radius: 15px;
 }
