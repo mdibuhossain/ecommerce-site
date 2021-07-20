@@ -1,9 +1,16 @@
 .categories img{
     width: 100px;
 }
-
+.myBtn{
+    color: whitesmoke;
+    background: linear-gradient(#fc7eae 0%, #ff106b 100%);
+    border: none;
+}
 .sec-space{
     margin-bottom: 50px;
+}
+.myPrice-color{
+    color: #ff106b;
 }
 .slide-sec{
     margin-top: 120px;
@@ -15,20 +22,19 @@
     padding: 20px 30px
 }
 .cat1{
-    background-color: orange;
+    background-color: #FFA500;
 }
 .cat2{
-    background-color: lightskyblue;
+    background-color: #DA70D6;
 }
 .cat3{
-    background-color: blueviolet;
+    background-color: #0000FF;
 }
 
 .cat1, .cat2, .cat3{
     color: white;
     padding: 10px 40px;
 }
-
 .myCard{
     border: none;
     box-shadow: 5px 5px 15px #69696963;
